@@ -82,7 +82,7 @@
 </div>
 <table>
 <tr>
-<td width="50%">
+<td width="25%">
 
 ### 8-Bit CPU on FPGA with VHDL
 ```yaml
@@ -95,7 +95,7 @@ Designed complete 8-bit processor from scratch
 ```
 
 </td>
-<td width="50%">
+<td width="25%">
 
 ### HiddenRoute - VPN and Adblocker
 ```yaml
@@ -112,7 +112,7 @@ Locally running VM with anonymity capabilities
 </table>
 <table>
 <tr>
-<td width="50%">
+<td width="25%">
 
 ### 8-Bit GPU with Logic Gates
 ```yaml
@@ -125,7 +125,7 @@ Built graphics card without microcontrollers
 ```
 
 </td>
-<td width="50%">
+<td width="25%">
 
 ### Flight Controller Software for VTOL on STM32
 ```yaml
