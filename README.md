@@ -200,15 +200,17 @@ Location: "Turkiye"
 <a href="https://github.com/canomer">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=FOLLOW"/>
 </a>
+  <img src="https://komarev.com/ghpvc/?username=canomer&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
 </div>
 
 ---
-
+<!--
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=canomer&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
   <img src="https://img.shields.io/github/followers/canomer?style=for-the-badge&color=blue&labelColor=black&label=FOLLOWERS"/>
   <img src="https://img.shields.io/github/stars/canomer?style=for-the-badge&color=yellow&labelColor=black&label=STARS"/>
 </div>
+-->
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120§ion=footer&text=THANKS%20FOR%20VISITING!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=25"/>
