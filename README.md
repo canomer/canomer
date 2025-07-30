@@ -143,6 +143,7 @@ Custom flight control for VTOL RC aircraft
 ---
 
 ## `GITHUB ANALYTICS`
+
 <div align="center">
 <table>
 <tr>
@@ -168,6 +169,7 @@ Custom flight control for VTOL RC aircraft
 </table>
 -->
 </div>
+
 ---
 
 ## `CONNECT & COLLABORATE`
