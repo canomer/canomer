@@ -60,6 +60,7 @@
 ![](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![](https://img.shields.io/badge/OpenWrt-181717?style=for-the-badge&logo=openwrt&logoColor=white)
 ![](https://img.shields.io/badge/redhat-FF0900?style=for-the-badge&logo=redhat&logoColor=white)
+![](https://img.shields.io/badge/xilinx-FF0900?style=for-the-badge&logo=xilinx&logoColor=white)
 
 ### 🔬 `DEVELOPMENT TOOLS`
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
