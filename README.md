@@ -73,7 +73,7 @@
 </div>
 
 ---
-
+<!--
 <div align="center">
 
 ## `LEGENDARY PROJECTS`
@@ -138,6 +138,7 @@ Custom flight control for VTOL RC aircraft
 </td>
 </tr>
 </table>
+-->
 ---
 
 ## `GITHUB ANALYTICS`
