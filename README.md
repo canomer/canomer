@@ -50,6 +50,7 @@
 ![](https://img.shields.io/badge/VHDL-FF6600?style=for-the-badge&logo=xilinx&logoColor=white)
 ![](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![](https://img.shields.io/badge/Qt-019733?style=for-the-badge&logo=qt&logoColor=white)
+![](https://img.shields.io/badge/hal-019733?style=for-the-badge&logo=hal&logoColor=white)
 
 ### 🔧 `PLATFORMS & SYSTEMS  `
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
