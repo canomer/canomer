@@ -1,8 +1,3 @@
-# README_Github_GPT
-
-*Created: 30.07.2025 16:45:05*
-
----
 ```ascii
              █ ██ █╗ ███╗   ███╗███████╗██████╗      ██████╗ █████╗ ███╗   ██╗
             ██╔═══██╗████╗ ████║██╔════╝██╔══██╗    ██╔════╝██╔══██╗████╗  ██║
@@ -82,7 +77,7 @@
 </div>
 <table>
 <tr>
-<td width="25%">
+<td width="50%">
 
 ### 8-Bit CPU on FPGA with VHDL
 ```yaml
@@ -95,7 +90,7 @@ Designed complete 8-bit processor from scratch
 ```
 
 </td>
-<td width="25%">
+<td width="50%">
 
 ### HiddenRoute - VPN and Adblocker
 ```yaml
@@ -112,7 +107,7 @@ Locally running VM with anonymity capabilities
 </table>
 <table>
 <tr>
-<td width="25%">
+<td width="50%">
 
 ### 8-Bit GPU with Logic Gates
 ```yaml
@@ -125,7 +120,7 @@ Built graphics card without microcontrollers
 ```
 
 </td>
-<td width="25%">
+<td width="50%">
 
 ### Flight Controller Software for VTOL on STM32
 ```yaml
@@ -157,6 +152,7 @@ Custom flight control for VTOL RC aircraft
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=canomer&theme=radical&background=0d1117&border=58a6ff&stroke=58a6ff&ring=58a6ff&fire=ffab00&currStreakLabel=58a6ff"/>
 </div>
 -->
+<!--
 </td>
 <td width="50%">
 <div align="center">
@@ -165,12 +161,10 @@ Custom flight control for VTOL RC aircraft
 </td>
 </tr>
 </table>
-
+-->
 ---
 
 ## 🌐 CONNECT & COLLABORATE
-
-<div align="center">
 
 ### `LET'S BUILD THE IMPOSSIBLE`
 
@@ -199,11 +193,6 @@ Location: "Turkiye"
 <a href="https://github.com/canomer">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=FOLLOW"/>
 </a>
-
-</div>
-
-</div>
-
 ---
 
 <div align="center">
