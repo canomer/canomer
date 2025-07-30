@@ -35,7 +35,7 @@
 
 ### 🔵 `EMBEDDED SYSTEMS`
 ![](https://img.shields.io/badge/Firmware_Development-00599C?style=for-the-badge&logo=&logoColor=white)
-![](https://img.shields.io/badge/Driver_Developent-A8B9CC?style=for-the-badge&logo=&logoColor=white)
+![](https://img.shields.io/badge/Driver_Development-A8B9CC?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/RTOS-03234B?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/RC_Planes-5391FE?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/Logic_Design-FF6600?style=for-the-badge&logo=&logoColor=white)
@@ -70,6 +70,7 @@
 ![](https://img.shields.io/badge/qemu-A8B9CC?style=for-the-badge&logo=qemuColor=white)
 ![](https://img.shields.io/badge/cmake-019733?style=for-the-badge&logo=cmake&logoColor=white)
 ![](https://img.shields.io/badge/vivado-FFD43B?style=for-the-badge&logo=vivado&logoColor=white)
+![](https://img.shields.io/badge/cubeide-0078d4?style=for-the-badge&logo=cubeide&logoColor=white)
 
 </div>
 
