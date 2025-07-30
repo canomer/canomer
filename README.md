@@ -203,8 +203,9 @@ Location: "Turkiye"
   <img src="https://komarev.com/ghpvc/?username=canomer&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
 </div>
 
----
 <!--
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=canomer&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
   <img src="https://img.shields.io/github/followers/canomer?style=for-the-badge&color=blue&labelColor=black&label=FOLLOWERS"/>
