@@ -163,7 +163,7 @@ Custom flight control for VTOL RC aircraft
 -->
 ---
 
-## 🌐 CONNECT & COLLABORATE
+## `CONNECT & COLLABORATE`
 
 ### `LET'S BUILD THE IMPOSSIBLE`
 
@@ -183,6 +183,7 @@ LinkedIn: "linkedin.com/in/omer-can-vural"
 Location: "Turkiye"
 ```
 
+<div align="center">
 <a href="mailto:can.omer.5306@outlook.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=HIRE%20ME"/>
 </a>
@@ -192,6 +193,8 @@ Location: "Turkiye"
 <a href="https://github.com/canomer">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=FOLLOW"/>
 </a>
+</div>
+
 ---
 
 <div align="center">
