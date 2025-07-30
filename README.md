@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Reverse_Engineering-525252?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/Exploit_Development-FF0900?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/Malware_Analysis-00599C?style=for-the-badge&logo=&logoColor=white)
-![](https://img.shields.io/badge/Operation_Security-FFD43B?style=for-the-badge&logo=&logoColor=white)
+![](https://img.shields.io/badge/Operational_Security-FFD43B?style=for-the-badge&logo=&logoColor=white)
 
 ### 🔵 `EMBEDDED SYSTEMS`
 ![](https://img.shields.io/badge/Firmware_Development-00599C?style=for-the-badge&logo=&logoColor=white)
