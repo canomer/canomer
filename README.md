@@ -39,7 +39,7 @@
 ![](https://img.shields.io/badge/RTOS-03234B?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/RC_Planes-5391FE?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/Logic_Design-FF6600?style=for-the-badge&logo=&logoColor=white)
-![](https://img.shields.io/badge/PCB_Design-019733?style=for-the-badge&logo=&logoColor=white)
+![](https://img.shields.io/badge/Flight_Control-019733?style=for-the-badge&logo=&logoColor=white)
 
 ### 💻 `LANGUAGES & FRAMEWORKS`
 ![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
