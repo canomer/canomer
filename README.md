@@ -69,7 +69,7 @@
 ![](https://img.shields.io/badge/VirtualBox-00599C?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![](https://img.shields.io/badge/qemu-A8B9CC?style=for-the-badge&logo=qemuColor=white)
 ![](https://img.shields.io/badge/cmake-019733?style=for-the-badge&logo=cmake&logoColor=white)
-![](https://img.shields.io/badge/vivado-019733?style=for-the-badge&logo=vivado&logoColor=white)
+![](https://img.shields.io/badge/vivado-FFD43B?style=for-the-badge&logo=vivado&logoColor=white)
 
 </div>
 
