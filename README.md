@@ -73,6 +73,7 @@
 </div>
 
 ---
+
 <div align="center">
 
 ## `LEGENDARY PROJECTS`
@@ -163,6 +164,7 @@ Custom flight control for VTOL RC aircraft
 </tr>
 </table>
 -->
+
 ---
 
 ## `CONNECT & COLLABORATE`
