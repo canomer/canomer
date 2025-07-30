@@ -99,7 +99,7 @@ Locally running VM with anonymity capabilities
 - DPI + Adblocker capabilities
 - Anonymity capabilities with dynamic TOR proxy
 - User friendly GUI
-- No logs, no tracking, no compromise VPN
+- No logs, no tracking, no compromise
 ```
 
 </td>
