@@ -170,8 +170,6 @@ Custom flight control for VTOL RC aircraft
 
 ---
 
-### `LET'S BUILD THE IMPOSSIBLE`
-
 ```yaml
 Available_For:
   -  Innovative Projects
