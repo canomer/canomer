@@ -172,6 +172,9 @@ Custom flight control for VTOL RC aircraft
 </tr>
 </table>
 -->
+</td>
+</tr>
+</table>
 
 ---
 
