@@ -6,9 +6,12 @@
  ╚██████╔╝██║ ╚═╝ ██║███████╗██║  ██║    ╚██████╗██║  ██║██║ ╚████║
   ╚═════╝ ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝     ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
+<!--
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=120§ion=header&text=BREAKING%20SYSTEMS%20•%20BUILDING%20SOLUTIONS&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=25"/>
 </div>
+-->
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF¢er=true&vCenter=true&width=435&lines=Always+Learning%2C+Always+Building;Impossible+→+Possible;Cybersecurity+Enthusiast;Embedded+Systems;Reverse+Engineering;Systems+Engineering" alt="Typing SVG" />
 
 ---
@@ -210,7 +213,12 @@ Location: "Turkiye"
   <img src="https://img.shields.io/github/stars/canomer?style=for-the-badge&color=yellow&labelColor=black&label=STARS"/>
 </div>
 -->
-
+<!--
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120§ion=footer&text=THANKS%20FOR%20VISITING!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=25"/>
 </div>
+-->
+
+```ascii
+THANKS FOR VISIT!
+```
