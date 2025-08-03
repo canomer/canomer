@@ -172,9 +172,7 @@ Custom flight control for VTOL RC aircraft
 </tr>
 </table>
 -->
-</td>
-</tr>
-</table>
+
 
 ---
 
@@ -193,8 +191,11 @@ Email: "can.omer.5306@outlook.com"
 LinkedIn: "linkedin.com/in/omer-can-vural"
 Location: "Turkiye"
 ```
+</td>
+</tr>
+</table>
 
-<!-- <div align="center"> -->
+<div align="center">
 <a href="mailto:can.omer.5306@outlook.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=HIRE%20ME"/>
 </a>
@@ -205,7 +206,7 @@ Location: "Turkiye"
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=FOLLOW"/>
 </a>
   <img src="https://komarev.com/ghpvc/?username=canomer&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
-<!-- </div> -->
+</div>
 
 <!--
 ---
