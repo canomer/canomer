@@ -224,5 +224,5 @@ Location: "Turkiye"
 -->
 
 ```ascii
-THANKS FOR VISIT!
+Thanks for the visit!
 ```
