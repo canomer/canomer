@@ -154,8 +154,7 @@ Custom flight control for VTOL RC aircraft
 <td width="50%">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=canomer&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
- <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canomer&layout=compact&langs_count=8&theme=radical&border_radius=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-</div> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canomer&layout=compact&langs_count=8&theme=radical&border_radius=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
 <!--
 <div align="center">
