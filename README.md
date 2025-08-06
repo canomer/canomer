@@ -176,9 +176,9 @@ Custom flight control for VTOL RC aircraft
 </td>
 </tr>
 </table>
--->
 
 ---
+-->
 
 ```yaml
 Available_For:
