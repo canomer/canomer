@@ -189,6 +189,10 @@ Custom flight control for VTOL RC aircraft
 ---
 -->
 
+<table>
+<tr>
+<td width="50%">
+
 ```yaml
 Available_For:
   -  Innovative Projects
@@ -198,6 +202,9 @@ Available_For:
   -  Remote Opportunities
 ```
 
+</td>
+<td width="50%">
+
 ```yaml
 Contact_Methods:
 Email: "can.omer.5306@outlook.com"
@@ -205,6 +212,9 @@ LinkedIn: "linkedin.com/in/omer-can-vural"
 Location: "Turkiye"
 ```
 
+</td>
+</tr>
+</table>
 
 <div align="center">
 <a href="mailto:can.omer.5306@outlook.com">
