@@ -150,10 +150,9 @@ Custom flight control for VTOL RC aircraft
 ---
 
 
-<!--
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=canomer&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=canomer&show_icons=true&theme=transparent)
--->
+
 <!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=canomer&theme=radical&background=0d1117&border=58a6ff&stroke=58a6ff&ring=58a6ff&fire=ffab00&currStreakLabel=58a6ff"/>
