@@ -12,9 +12,11 @@
 </div>
 -->
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF¢er=true&vCenter=true&width=435&lines=Always+Learning%2C+Always+Building;Impossible+→+Possible;Cybersecurity+Enthusiast;Embedded+Systems;Reverse+Engineering;Systems+Engineering" alt="Typing SVG" />
+<!--
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Always+Learning%2C+Always+Building;Impossible+→+Possible;Offensive+Security+Engineer;Embedded+Systems+Developer;Reverse+Engineering+Specialist;Systems+Engineering" alt="Typing SVG" />
+-->
 
----
+<!-- --- -->
 
 <div align="center">
 
@@ -140,7 +142,8 @@ Custom flight control for VTOL RC aircraft
 </tr>
 </table>
 -->
----
+
+<!-- --- -->
 
 <div align="center">
 <table>
