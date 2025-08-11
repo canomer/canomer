@@ -3,7 +3,7 @@
  ██╔═══██╗████╗ ████║██╔════╝██╔══██╗    ██╔════╝██╔══██╗████╗  ██║
 ║██║   ██║██╔████╔██║█████╗  ██████╔╝    ██║     ███████║██╔██╗ ██║
 ║██║   ██║██║╚██╔╝██║██╔══╝  ██╔══██╗    ██║     ██╔══██║██║╚██╗██║
- ╚██████╔╝██║ ╚═╝ ██║███████╗██║  ██║    ╚██████╗██║  ██║██║ ╚████║
+ ╚██████╔╝██║ ╚═╝ ██║███████╗██║  ██║    ╚██████╗██║  ██║██║ ╚████║    Security-Oriented Software Engineer
   ╚═════╝ ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝     ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 <!--
@@ -15,18 +15,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF¢er=true&vCenter=true&width=435&lines=Always+Learning%2C+Always+Building;Impossible+→+Possible;Cybersecurity+Enthusiast;Embedded+Systems;Reverse+Engineering;Systems+Engineering" alt="Typing SVG" />
 
 ---
-<div align="center">
-
-<!--
-### `IMPOSSIBLE → POSSIBLE`
-**Status:** `Available for Remote/Hybrid/In Place`  
-**Education:** `Computer Engineering BSc`  
-**Specialty:** `Breaking → Understanding → Rebuilding`
-
-</div>
-
----
--->
 
 <div align="center">
 
@@ -35,16 +23,16 @@
 ![](https://img.shields.io/badge/Vulnerability_Research-4EAA25?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/Reverse_Engineering-525252?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/Exploit_Development-FF0900?style=for-the-badge&logo=&logoColor=white)
-![](https://img.shields.io/badge/Malware_Analysis-00599C?style=for-the-badge&logo=&logoColor=white)
-![](https://img.shields.io/badge/Operations_Security-FFD43B?style=for-the-badge&logo=&logoColor=white)
+<!-- ![](https://img.shields.io/badge/Malware_Analysis-00599C?style=for-the-badge&logo=&logoColor=white) 
+![](https://img.shields.io/badge/Operations_Security-FFD43B?style=for-the-badge&logo=&logoColor=white) -->
 
 ### 🔵 `EMBEDDED SYSTEMS`
 ![](https://img.shields.io/badge/Firmware_Development-00599C?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/Driver_Development-A8B9CC?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/RTOS-03234B?style=for-the-badge&logo=&logoColor=white)
-![](https://img.shields.io/badge/RC_Planes-5391FE?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/Logic_Design-FF6600?style=for-the-badge&logo=&logoColor=white)
-![](https://img.shields.io/badge/Flight_Control-019733?style=for-the-badge&logo=&logoColor=white)
+<!-- ![](https://img.shields.io/badge/RC_Planes-5391FE?style=for-the-badge&logo=&logoColor=white) -->
+<!-- ![](https://img.shields.io/badge/Flight_Control-019733?style=for-the-badge&logo=&logoColor=white) -->
 
 ### 💻 `LANGUAGES & FRAMEWORKS`
 ![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -52,21 +40,25 @@
 ![](https://img.shields.io/badge/Python-019733?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/Bash-181717?style=for-the-badge&logo=gnubash&logoColor=white)
 ![](https://img.shields.io/badge/PowerShell-0078d4?style=for-the-badge&logo=powershell&logoColor=white)
-![](https://img.shields.io/badge/VHDL-FF6600?style=for-the-badge&logo=xilinx&logoColor=white)
 ![](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![](https://img.shields.io/badge/Qt-019733?style=for-the-badge&logo=qt&logoColor=white)
-![](https://img.shields.io/badge/hal-0078d4?style=for-the-badge&logo=hal&logoColor=white)
+<!-- ![](https://img.shields.io/badge/VHDL-FF6600?style=for-the-badge&logo=xilinx&logoColor=white) -->
+<!-- ![](https://img.shields.io/badge/hal-0078d4?style=for-the-badge&logo=hal&logoColor=white) -->
 
 ### 🔧 `PLATFORMS & SYSTEMS  `
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Kali_Linux-03234B?style=for-the-badge&logo=kalilinux&logoColor=white)
-![](https://img.shields.io/badge/Windows-0078d4?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/xilinx-FF0900?style=for-the-badge&logo=xilinx&logoColor=white)
-![](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![](https://img.shields.io/badge/OpenWrt-181717?style=for-the-badge&logo=openwrt&logoColor=white)
-![](https://img.shields.io/badge/redhat-FF0900?style=for-the-badge&logo=redhat&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078d4?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![](https://img.shields.io/badge/VMware-019733?style=for-the-badge&logo=vmware&logoColor=white)
+![](https://img.shields.io/badge/VirtualBox-00599C?style=for-the-badge&logo=virtualbox&logoColor=white)
+![](https://img.shields.io/badge/qemu-A8B9CC?style=for-the-badge&logo=qemuColor=white)
+<!-- ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
+<!-- ![](https://img.shields.io/badge/xilinx-FF0900?style=for-the-badge&logo=xilinx&logoColor=white) -->
+<!-- ![](https://img.shields.io/badge/redhat-FF0900?style=for-the-badge&logo=redhat&logoColor=white) -->
 
+<!-- 
 ### 🔬 `DEVELOPMENT TOOLS`
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -76,6 +68,7 @@
 ![](https://img.shields.io/badge/cmake-019733?style=for-the-badge&logo=cmake&logoColor=white)
 ![](https://img.shields.io/badge/vivado-FFD43B?style=for-the-badge&logo=vivado&logoColor=white)
 ![](https://img.shields.io/badge/cubeide-0078d4?style=for-the-badge&logo=cubeide&logoColor=white)
+-->
 
 </div>
 
@@ -149,6 +142,7 @@ Custom flight control for VTOL RC aircraft
 -->
 ---
 
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -163,54 +157,6 @@ Custom flight control for VTOL RC aircraft
 </td>
 </tr>
 </table>
-
-<!--
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=canomer&show_icons=true&theme=transparent&count_private=true&hide_border=true" align="center" /></div>
-
-<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canomer&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/></div>
--->
-<!--
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=canomer&theme=radical&background=0d1117&border=58a6ff&stroke=58a6ff&ring=58a6ff&fire=ffab00&currStreakLabel=58a6ff"/>
-</div>
-
-
-<!--
-</td>
-<td width="50%">
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=canomer&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffab00&area=true&hide_border=true"/>
-</div>
-
-</td>
-</tr>
-</table>
-
----
--->
-
-<table>
-<tr>
-<td width="50%">
-
-```yaml
-Available_For:
-  -  Innovative Projects
-  -  Security Research
-  -  Embedded Systems
-  -  Open Source Contributions
-  -  Remote Opportunities
-```
-
-</td>
-<td width="50%">
-
-```yaml
-Contact_Methods:
-Email: "can.omer.5306@outlook.com"
-LinkedIn: "linkedin.com/in/omer-can-vural"
-Location: "Turkiye"
-```
 
 </td>
 </tr>
@@ -230,20 +176,7 @@ Location: "Turkiye"
 </div>
 
 <!--
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=canomer&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/canomer?style=for-the-badge&color=blue&labelColor=black&label=FOLLOWERS"/>
-  <img src="https://img.shields.io/github/stars/canomer?style=for-the-badge&color=yellow&labelColor=black&label=STARS"/>
-</div>
--->
-<!--
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120§ion=footer&text=THANKS%20FOR%20VISITING!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=25"/>
-</div>
--->
-
 ```ascii
 Thanks for the visit!
 ```
+-->
