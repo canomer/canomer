@@ -23,16 +23,16 @@
 ### 🔴 `OFFENSIVE SECURITY`
 ![](https://img.shields.io/badge/Penetration_Testing-03234B?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/Vulnerability_Research-4EAA25?style=for-the-badge&logo=&logoColor=white)
-![](https://img.shields.io/badge/Reverse_Engineering-525252?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/Exploit_Development-FF0900?style=for-the-badge&logo=&logoColor=white)
+<!-- ![](https://img.shields.io/badge/Reverse_Engineering-525252?style=for-the-badge&logo=&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/Malware_Analysis-00599C?style=for-the-badge&logo=&logoColor=white) 
 ![](https://img.shields.io/badge/Operations_Security-FFD43B?style=for-the-badge&logo=&logoColor=white) -->
 
 ### 🔵 `EMBEDDED SYSTEMS`
 ![](https://img.shields.io/badge/Firmware_Development-00599C?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/Driver_Development-A8B9CC?style=for-the-badge&logo=&logoColor=white)
-![](https://img.shields.io/badge/RTOS-03234B?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/Logic_Design-FF6600?style=for-the-badge&logo=&logoColor=white)
+<!-- ![](https://img.shields.io/badge/RTOS-03234B?style=for-the-badge&logo=&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/RC_Planes-5391FE?style=for-the-badge&logo=&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/Flight_Control-019733?style=for-the-badge&logo=&logoColor=white) -->
 
@@ -42,8 +42,8 @@
 ![](https://img.shields.io/badge/Python-019733?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/Bash-181717?style=for-the-badge&logo=gnubash&logoColor=white)
 ![](https://img.shields.io/badge/PowerShell-0078d4?style=for-the-badge&logo=powershell&logoColor=white)
-![](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![](https://img.shields.io/badge/Qt-019733?style=for-the-badge&logo=qt&logoColor=white)
+<!-- ![](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/VHDL-FF6600?style=for-the-badge&logo=xilinx&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/hal-0078d4?style=for-the-badge&logo=hal&logoColor=white) -->
 
