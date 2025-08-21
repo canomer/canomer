@@ -1,3 +1,4 @@
+<!--
 ```ascii
   █ ██ █╗ ███╗   ███╗███████╗██████╗      ██████╗ █████╗ ███╗   ██╗
  ██╔═══██╗████╗ ████║██╔════╝██╔══██╗    ██╔════╝██╔══██╗████╗  ██║
@@ -6,6 +7,14 @@
  ╚██████╔╝██║ ╚═╝ ██║███████╗██║  ██║    ╚██████╗██║  ██║██║ ╚████║    Security-Oriented Software Engineer
   ╚═════╝ ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝     ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
+-->
+<div align="center">
+
+```ascii
+ Security-Oriented Software Engineer • Vulnerability Assessment & Penetration Tester
+```
+
+</div>
 <!--
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=120§ion=header&text=BREAKING%20SYSTEMS%20•%20BUILDING%20SOLUTIONS&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=25"/>
@@ -17,7 +26,10 @@
 -->
 
 <!-- --- -->
-
+<div align="center">
+<table>
+<tr>
+<td width="50%">
 <div align="center">
 
 ### 🔴 `OFFENSIVE SECURITY`
@@ -28,6 +40,11 @@
 <!-- ![](https://img.shields.io/badge/Malware_Analysis-00599C?style=for-the-badge&logo=&logoColor=white) 
 ![](https://img.shields.io/badge/Operations_Security-FFD43B?style=for-the-badge&logo=&logoColor=white) -->
 
+</div>
+</td>
+<td width="50%">
+<div align="center">
+
 ### 🔵 `EMBEDDED SYSTEMS`
 ![](https://img.shields.io/badge/Firmware_Development-00599C?style=for-the-badge&logo=&logoColor=white)
 ![](https://img.shields.io/badge/Driver_Development-A8B9CC?style=for-the-badge&logo=&logoColor=white)
@@ -35,6 +52,18 @@
 <!-- ![](https://img.shields.io/badge/RTOS-03234B?style=for-the-badge&logo=&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/RC_Planes-5391FE?style=for-the-badge&logo=&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/Flight_Control-019733?style=for-the-badge&logo=&logoColor=white) -->
+
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<div align="center">
 
 ### 💻 `LANGUAGES & FRAMEWORKS`
 ![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -46,6 +75,11 @@
 <!-- ![](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/VHDL-FF6600?style=for-the-badge&logo=xilinx&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/hal-0078d4?style=for-the-badge&logo=hal&logoColor=white) -->
+
+</div>
+</td>
+<td width="50%">
+<div align="center">
 
 ### 🔧 `PLATFORMS & SYSTEMS  `
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -60,6 +94,12 @@
 <!-- ![](https://img.shields.io/badge/xilinx-FF0900?style=for-the-badge&logo=xilinx&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/redhat-FF0900?style=for-the-badge&logo=redhat&logoColor=white) -->
 
+</div>
+</td>
+</tr>
+</table>
+</div>
+
 <!-- 
 ### 🔬 `DEVELOPMENT TOOLS`
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -72,7 +112,6 @@
 ![](https://img.shields.io/badge/cubeide-0078d4?style=for-the-badge&logo=cubeide&logoColor=white)
 -->
 
-</div>
 
 <!--
 ---
