@@ -11,7 +11,7 @@
 <div align="center">
 
 ```ascii
- Security-Oriented Software Engineer • Vulnerability Assessment & Penetration Tester
+ Security-Oriented Software Engineer • Offensive Security Engineer
 ```
 
 </div>
