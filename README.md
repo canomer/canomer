@@ -209,7 +209,7 @@ Custom flight control for VTOL RC aircraft
 
 <div align="center">
 <a href="mailto:can.omer.5306@outlook.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=HIRE%20ME"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=outlook&logoColor=white&label=CONTACT"/>
 </a>
 <a href="https://linkedin.com/in/omer-can-vural">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=CONNECT"/>
