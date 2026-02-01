@@ -220,7 +220,7 @@ Custom flight control for VTOL RC aircraft
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=FOLLOW"/>
 </a>
 <a href="https://patchmeifucan.com">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=site&logoColor=white&label=FOLLOW"/>
+  <img src="https://img.shields.io/badge/PathMeIfUCan-0078d4?style=for-the-badge&logo=site&logoColor=white&label=SITE"/>
 </a>
   <img src="https://komarev.com/ghpvc/?username=canomer&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
 </div>
