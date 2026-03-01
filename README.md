@@ -17,27 +17,4 @@
 
 </div>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3947262" style='border:none;'></iframe>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/patchmeifucan.png" alt="Your Image Badge" />
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/3947262.png)](https://tryhackme.com/p/3947262)
-
-<p align="center">
-  <a href="https://tryhackme.com/p/3947262">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/3947262.png" alt="TryHackMe Badge">
-  </a>
-</p>
-
-<a href="https://tryhackme.com/p/patchmeifucan">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/patchmeifucan.png" alt="TryHackMe Badge">
-</a>
-
-<p align="center">
-  <a href="[https://tryhackme.com/p/patchmeifucan](https://tryhackme.com/p/patchmeifucan)">
-    <img src="[https://tryhackme-badges.s3.amazonaws.com/patchmeifucan.png](https://tryhackme-badges.s3.amazonaws.com/patchmeifucan.png)" alt="TryHackMe" style="max-width: 100%;">
-  </a>
-</p>
-![skull-knight](https://github.com/user-attachments/assets/842e16d8-4b5b-49c0-87f8-e4551229ea2f)
-
-<img width="498" height="281" alt="skull-knight gif" src="https://github.com/user-attachments/assets/8b89b7dc-4cdd-4541-ad44-67ba721c22dd" />
